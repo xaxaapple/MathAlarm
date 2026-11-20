@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="paper">#FFF4D6</color>
+    <color name="ic_launcher_background">#FF6B9E</color>
+
+    <style name="Theme.MathAlarm" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/paper</item>
+    </style>
+</resources>
